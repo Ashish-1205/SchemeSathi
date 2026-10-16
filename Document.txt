@@ -61,3 +61,42 @@ gender				female, male				Keyword list					Eligibility, discovery
 category			SC, ST, OBC, General		Keyword list					Eligibility, discovery
 scheme_category		health, education, housing	Keyword list					find_schemes
 minority_community	yes/no or community name	Keyword list					Asked only for female students
+
+
+
+
+Folder Structure
+
+schemesaathi/
+├── app/
+│   ├── __init__.py
+│   ├── main.py                # FastAPI app (Step 10)
+│   ├── config.py              # paths, thresholds, constants
+│   ├── nlp/
+│   │   ├── __init__.py
+│   │   ├── classifier.py      # intent model (Step 5)
+│   │   └── extractor.py       # entity extraction (Step 6)
+│   ├── dialogue/
+│   │   ├── __init__.py
+│   │   └── manager.py         # slot filling, session state (Step 7)
+│   ├── engine/
+│   │   ├── __init__.py
+│   │   └── eligibility.py     # rule-based matching (Step 8)
+│   └── responses/
+│       ├── __init__.py
+│       └── builder.py         # reply templates (Step 9)
+├── data/
+│   ├── schemes.json           # Step 3
+│   ├── intents.csv            # Step 4
+│   └── out_of_scope.csv       # fallback test set
+├── models/                    # saved trained model (.joblib)
+├── notebooks/                 # experiments, evaluation
+├── scripts/
+│   └── train.py               # training entry point (Step 5)
+├── tests/
+│   └── test_placeholder.py
+├── frontend/                  # chat UI (Step 11)
+├── requirements.txt
+├── .gitignore
+└── README.md
+└── Document.txt
