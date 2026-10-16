@@ -1,0 +1,63 @@
+Final scheme list (17 records)
+
+Category	Scheme	Records
+Agriculture:
+	Kisan Credit Card (KCC)	1
+	PM Fasal Bima Yojana (PMFBY)	1
+
+Health:
+	PM-JAY (Ayushman Bharat)	1
+	Janani Suraksha Yojana (JSY)	1
+
+Education:
+	Begum Hazrat Mahal National Scholarship	1
+	PM-USP (Central Sector Scholarship)	1
+	PM Vidyalaxmi	1
+
+Pension:
+	NSAP: Old-Age (IGNOAPS), Widow (IGNWPS), Disability (IGNDPS)	3
+	Atal Pension Yojana (APY)	1
+
+Housing:
+	PMAY-Urban, PMAY-Gramin	2
+
+Women and child:
+	PM Matru Vandana Yojana (PMMVY)	1
+	Janani Shishu Suraksha Karyakram (JSSK)	1
+
+Livelihood:
+	PM Mudra Yojana	1
+	Stand-Up India	1
+	
+	INTENT (13)
+
+#	Intent	                Purpose	   									Trained on data?
+
+1	greet	            	Hello, hi	   									Yes
+2	goodbye	            	Bye, exit	   									Yes
+3	thanks	            	Thank you	   									Yes
+4	find_schemes	    	Discover schemes for my profile					Yes
+5	check_eligibility		Am I eligible for scheme X?						Yes
+6	scheme_info	        	What is scheme X? Benefits?						Yes
+7	documents_required		What do I need to apply?						Yes
+8	how_to_apply	    	Application steps and portal					Yes
+9	application_status		Where and how to track an application			Yes
+10	deadline_info	    	Last dates, instalment timing					Yes
+11	nearest_office	    	Where to find a CSC, bank, or office			Yes
+12	grievance	        	Complaint or help with a problem				Yes
+13	fallback	        	Out-of-scope or low confidence					No, triggered by the confidence threshold
+
+So the classifier trains on 12 intents, and fallback comes from the threshold.
+
+Entities (9)
+
+Entity				Example values				Extraction method				Used by
+scheme_name			PMAY, Mudra, KCC			Alias dictionary				Most intents
+age					45							Regex							Eligibility, discovery
+income				2 lakh, 200000				Regex plus unit conversion		Eligibility, discovery
+state				Bihar, UP					State list plus abbreviations	Eligibility, discovery
+occupation			farmer, student, labourer	Keyword list					Eligibility, discovery
+gender				female, male				Keyword list					Eligibility, discovery
+category			SC, ST, OBC, General		Keyword list					Eligibility, discovery
+scheme_category		health, education, housing	Keyword list					find_schemes
+minority_community	yes/no or community name	Keyword list					Asked only for female students
