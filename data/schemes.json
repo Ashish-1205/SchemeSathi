@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "kcc",
+    "name": "Kisan Credit Card",
+    "short_name": "KCC",
+    "aliases": ["kcc", "kisan credit card", "kisan card"],
+    "category": "agriculture",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "description": "Provides farmers with timely, low-interest credit for cultivation and related needs through a single card.",
+    "benefit_type": "credit",
+    "benefits": [
+      "Short-term credit for crops, farm inputs and allied activities",
+      "Interest subvention on timely repayment",
+      "Collateral-free loans up to a prescribed limit",
+      "Covers farming, animal husbandry and fisheries"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 75,
+      "max_income": null,
+      "gender": null,
+      "occupation": ["farmer"],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Owner-cultivators, tenant farmers, sharecroppers and self-help groups can apply",
+        "Applicants above 60 may need a co-borrower"
+      ]
+    },
+    "eligibility_text": [
+      "You should be a farmer, tenant farmer, sharecropper or part of a farmers' group",
+      "You should be between 18 and 75 years old"
+    ],
+    "exclusions": [],
+    "documents": [
+      "Filled application form",
+      "Identity proof (Aadhaar, voter ID, etc.)",
+      "Address proof",
+      "Land records or tenancy proof",
+      "Passport-size photographs"
+    ],
+    "how_to_apply": [
+      "Visit your nearest bank branch (commercial, regional rural or cooperative bank)",
+      "Ask for the Kisan Credit Card application form and fill it in",
+      "Submit it with land and identity documents",
+      "The bank verifies your details and issues the card"
+    ],
+    "apply_url": "www.urlforkcc.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. Applications are accepted year-round, and the card is renewed periodically.",
+    "related_schemes": ["pmfby"],
+    "source_url": "www.urlforkcc.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana",
+    "short_name": "PMFBY",
+    "aliases": ["pmfby", "fasal bima", "fasal bima yojana", "crop insurance"],
+    "category": "agriculture",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "description": "Crop insurance that protects farmers against yield loss from natural calamities, pests and diseases.",
+    "benefit_type": "insurance",
+    "benefits": [
+      "Insurance cover for notified crops against non-preventable natural risks",
+      "Low fixed premium for farmers, with the rest subsidised",
+      "Claims for losses from drought, flood, pests and unseasonal rain"
+    ],
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "gender": null,
+      "occupation": ["farmer"],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Crop must be notified for your area in that season",
+        "Tenant farmers and sharecroppers can enrol with proper documents",
+        "Enrolment must be done before the cut-off date for the season"
+      ]
+    },
+    "eligibility_text": [
+      "You should be a farmer growing a notified crop in a notified area",
+      "Tenant farmers and sharecroppers are also eligible"
+    ],
+    "exclusions": [],
+    "documents": [
+      "Aadhaar or other ID",
+      "Bank passbook",
+      "Land records or tenancy/lease agreement",
+      "Sowing certificate",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Apply through your bank, a Common Service Centre (CSC), an insurance company agent, or the PMFBY portal",
+      "Declare the crop and area you have sown",
+      "Pay your share of the premium",
+      "Keep the receipt and policy number for claims"
+    ],
+    "apply_url": "www.urlforpmfby.com",
+    "helpline": "1234567890",
+    "deadline_info": "Cut-off dates differ by state and season (kharif and rabi). Check the current dates on the portal.",
+    "related_schemes": ["kcc"],
+    "source_url": "www.urlforpmfby.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "pmjay",
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana",
+    "short_name": "PM-JAY",
+    "aliases": ["pmjay", "pm-jay", "pm jay", "ayushman bharat", "ayushman card", "ayushman", "golden card"],
+    "category": "health",
+    "ministry": "Ministry of Health & Family Welfare (National Health Authority)",
+    "description": "Health insurance that covers hospitalisation costs for eligible families at government and empanelled private hospitals, without payment at the point of care.",
+    "benefit_type": "insurance",
+    "benefits": [
+      "Health cover of up to Rs 5 lakh per family per year",
+      "Cashless treatment for secondary and tertiary hospitalisation",
+      "Covers pre- and post-hospitalisation expenses, diagnostics and medicines",
+      "No cap on family size or age of members",
+      "Senior citizens aged 70 and above are covered regardless of income"
+    ],
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "gender": null,
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Eligibility is based on the deprivation and occupational criteria of the SECC 2011 database, not on a simple income limit",
+        "Rural families: those in deprivation categories such as kuccha housing, no adult earning member, landless manual labour, or SC/ST households",
+        "Urban families: listed occupations such as rag pickers, domestic workers, street vendors, construction workers, sanitation workers",
+        "Citizens aged 70 and above are eligible irrespective of income",
+        "Some states run their own expanded versions, so check your state's rules"
+      ]
+    },
+    "eligibility_text": [
+      "Eligibility depends on your family's inclusion in the official SECC 2011 list, not just your income",
+      "Senior citizens aged 70 and above can enrol regardless of income",
+      "You can check your name on the official portal or at a Common Service Centre"
+    ],
+    "exclusions": [
+      "Families not covered by the SECC deprivation or occupational criteria (unless the state extends coverage)"
+    ],
+    "documents": [
+      "Aadhaar card",
+      "Ration card or other family ID",
+      "Mobile number",
+      "Any government-issued ID with photo"
+    ],
+    "how_to_apply": [
+      "Check whether you are eligible on the official PM-JAY portal using your mobile number or ration card",
+      "Visit a Common Service Centre or an empanelled hospital's Ayushman Mitra desk",
+      "Complete e-KYC (usually with Aadhaar) to get your Ayushman card",
+      "Show the card at an empanelled hospital for cashless treatment"
+    ],
+    "apply_url": "www.pmjay.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. You can enrol at any time if you are eligible.",
+    "related_schemes": ["jsy"],
+    "source_url": "www.pmjay.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "jsy",
+    "name": "Janani Suraksha Yojana",
+    "short_name": "JSY",
+    "aliases": ["jsy", "janani suraksha", "janani suraksha yojana", "delivery incentive"],
+    "category": "health",
+    "ministry": "Ministry of Health & Family Welfare (National Health Mission)",
+    "description": "A cash incentive for pregnant women who deliver in a government or accredited private health facility, meant to reduce maternal and newborn deaths.",
+    "benefit_type": "cash",
+    "benefits": [
+      "Cash assistance after delivery in a government or accredited health facility",
+      "Amount depends on whether you live in a rural or urban area and on your state's category",
+      "Support from an ASHA worker for registration, transport and facility delivery"
+    ],
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "gender": "female",
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applicant must be a pregnant woman who delivers in a government or accredited private facility",
+        "In Low Performing States, all pregnant women are eligible regardless of age or number of births",
+        "In High Performing States, only BPL, SC and ST women aged 19 and above are eligible, for up to two live births"
+      ]
+    },
+    "eligibility_text": [
+      "You should be a pregnant woman planning to deliver in a government or accredited facility",
+      "Extra conditions (age, BPL/SC/ST status, number of births) apply in some states",
+      "Your ASHA worker can tell you which rules apply in your state"
+    ],
+    "exclusions": [
+      "Home deliveries (except in certain cases specified under the scheme)"
+    ],
+    "documents": [
+      "JSY or Mother and Child Protection (MCP) card",
+      "Aadhaar card or other ID",
+      "BPL card or SC/ST certificate (where required in your state)",
+      "Bank account details",
+      "Proof of registration for antenatal care"
+    ],
+    "how_to_apply": [
+      "Register the pregnancy at your nearest Anganwadi, sub-centre or health facility",
+      "Contact your ASHA worker, who will guide you and help with documents",
+      "Deliver at a government or accredited private facility",
+      "The incentive is paid to your bank account or by cheque after delivery"
+    ],
+    "apply_url": "www.jsy.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. Register during pregnancy, and the incentive is paid after delivery.",
+    "related_schemes": ["jssk", "pmmvy"],
+    "source_url": "www.jsy.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "bhmns",
+    "name": "Begum Hazrat Mahal National Scholarship",
+    "short_name": "BHMNS",
+    "aliases": ["bhmns", "begum hazrat mahal", "begum hazrat mahal scholarship", "maef scholarship", "minority girls scholarship"],
+    "category": "education",
+    "ministry": "Ministry of Minority Affairs (Maulana Azad Education Foundation)",
+    "description": "A scholarship for meritorious girl students from notified minority communities studying in classes 9 to 12, to help them continue their schooling.",
+    "benefit_type": "scholarship",
+    "benefits": [
+      "Annual scholarship amount for class 9 and 10 students of Rs 5,000",
+      "Higher annual amount for class 11 and 12 students of Rs 6,000",
+      "Renewal in the following year if the student continues to meet the conditions"
+    ],
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": 200000,
+      "gender": "female",
+      "occupation": ["student"],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": true,
+      "other_conditions": [
+        "Must belong to a notified minority community (Muslim, Christian, Sikh, Buddhist, Jain or Parsi)",
+        "Must be studying in class 9 to 12",
+        "Must have scored at least 50% marks in the previous class",
+        "Family annual income should not exceed Rs 2 lakh",
+        "Check on the portal whether the scheme is open for the current academic year"
+      ]
+    },
+    "eligibility_text": [
+      "You should be a girl student in class 9 to 12",
+      "You should belong to a notified minority community",
+      "You should have at least 50% marks in your previous class",
+      "Your family's annual income should be within the limit set by the scheme"
+    ],
+    "exclusions": [
+      "Students who are already getting another scholarship of the same kind"
+    ],
+    "documents": [
+      "Aadhaar card",
+      "Previous year's marksheet",
+      "Income certificate of parents or guardian",
+      "Minority community proof or self-declaration",
+      "Bank account details of the student",
+      "School or institution ID or bonafide certificate",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Register on the National Scholarship Portal (NSP) with your details",
+      "Select the Begum Hazrat Mahal National Scholarship and fill in the application",
+      "Upload the required documents",
+      "Submit, then have the application verified by your school"
+    ],
+    "apply_url": "www.bhmns.com",
+    "helpline": "1234567890",
+    "deadline_info": "Applications open once a year, and the last date changes every academic year. Check the National Scholarship Portal for the current dates.",
+    "related_schemes": ["pmusp", "pmvidyalaxmi"],
+    "source_url": "www.bhmns.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "pmusp",
+    "name": "PM-USP Central Sector Scheme of Scholarship for College and University Students",
+    "short_name": "PM-USP",
+    "aliases": ["pmusp", "pm-usp", "pm usp", "central sector scholarship", "csss", "college scholarship", "merit scholarship"],
+    "category": "education",
+    "ministry": "Ministry of Education (Department of Higher Education)",
+    "description": "A merit-based scholarship for students who score in the top percentile in class 12 and go on to regular college or university courses.",
+    "benefit_type": "scholarship",
+    "benefits": [
+      "Annual scholarship for the first three years of a degree of Rs 12,000 per year",
+      "Higher annual amount for the final years of longer courses and for postgraduate study of Rs 20,000 per year",
+      "Renewed each year if the student keeps up attendance and passes the year"
+    ],
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": 450000,
+      "gender": null,
+      "occupation": ["student"],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Must have scored above the 80th percentile in the class 12 board exam in your stream",
+        "Must be studying a regular degree course at a recognised college or university",
+        "Distance, correspondence and private-mode courses are not covered",
+        "Family annual income should not exceed Rs 4.5 lakh",
+        "Renewal needs a minimum attendance and passing the year"
+      ]
+    },
+    "eligibility_text": [
+      "You should have scored in the top 20 percent of your class 12 board in your stream",
+      "You should be doing a regular degree course at a recognised institution",
+      "Your family's annual income should be within the limit set by the scheme"
+    ],
+    "exclusions": [
+      "Students on distance or correspondence courses",
+      "Students already getting another central scholarship for the same course"
+    ],
+    "documents": [
+      "Aadhaar card",
+      "Class 12 marksheet",
+      "Income certificate",
+      "College admission proof or bonafide certificate",
+      "Bank account details of the student",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Register on the National Scholarship Portal (NSP)",
+      "Select the Central Sector Scheme of Scholarship and fill in the application",
+      "Upload the required documents",
+      "Submit, then have the application verified by your institution"
+    ],
+    "apply_url": "www.pmusp.com",
+    "helpline": "1234567890",
+    "deadline_info": "Applications open once a year, and the last date changes every academic year. Check the National Scholarship Portal for the current dates.",
+    "related_schemes": ["bhmns", "pmvidyalaxmi"],
+    "source_url": "www.pmusp.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "pmvidyalaxmi",
+    "name": "PM Vidyalaxmi",
+    "short_name": "PM Vidyalaxmi",
+    "aliases": ["pm vidyalaxmi", "pm vidhyalaxmi", "vidyalaxmi", "vidhyalaxmi", "education loan", "student loan"],
+    "category": "education",
+    "ministry": "Ministry of Education (Department of Higher Education)",
+    "description": "Collateral-free and guarantor-free education loans for students admitted to top-ranked higher education institutions, with interest support for lower-income families.",
+    "benefit_type": "credit",
+    "benefits": [
+      "Education loan without collateral or a third-party guarantor",
+      "Government credit guarantee on part of the loan of 75% for loans up to Rs 7.5 lakh",
+      "Interest subvention for students from lower-income families",
+      "Single online application for loans and interest support"
+    ],
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "gender": null,
+      "occupation": ["student"],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Must be admitted to a notified quality higher education institution",
+        "Interest subvention applies only to families under a set income limit of Rs 8 lakh, with fuller support at around Rs 4.5 lakh",
+        "Students eligible for other government scholarships or interest subsidies may not get interest subvention under this scheme",
+        "The final loan is sanctioned by the bank as per its own rules"
+      ]
+    },
+    "eligibility_text": [
+      "You should have secured admission in a notified top higher education institution",
+      "The loan itself does not depend on family income, but interest support does",
+      "The final approval is given by the bank"
+    ],
+    "exclusions": [
+      "Students admitted to institutions that are not on the notified list"
+    ],
+    "documents": [
+      "Admission letter from the institution",
+      "Fee structure",
+      "Aadhaar card",
+      "Previous academic marksheets",
+      "Income certificate (for interest subvention)",
+      "Bank account details",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Register on the PM Vidyalaxmi portal",
+      "Fill in the common education loan application",
+      "Choose the banks you want to apply to and upload the documents",
+      "Track the application and sanction status on the portal"
+    ],
+    "apply_url": "www.pmvidyalaxmi.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. Apply after you receive an admission offer, and in time for fee payment.",
+    "related_schemes": ["pmusp", "bhmns"],
+    "source_url": "www.pmvidyalaxmi.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "nsap_ignoaps",
+    "name": "Indira Gandhi National Old Age Pension Scheme",
+    "short_name": "IGNOAPS",
+    "aliases": ["ignoaps", "old age pension", "vridha pension", "senior citizen pension", "nsap old age", "nsap"],
+    "category": "pension",
+    "ministry": "Ministry of Rural Development (National Social Assistance Programme)",
+    "description": "A monthly pension for elderly people from below poverty line households.",
+    "benefit_type": "pension",
+    "benefits": [
+      "Monthly pension from the Centre for those aged 60 to 79 of Rs 200",
+      "Higher monthly central pension for those aged 80 and above of Rs 500",
+      "Many states add their own top-up, so the final amount varies by state"
+    ],
+    "eligibility": {
+      "min_age": 60,
+      "max_age": null,
+      "max_income": null,
+      "gender": null,
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applicant must belong to a Below Poverty Line (BPL) household as per state or Centre lists",
+        "Age 60 and above for the pension, and 80 and above for the higher central amount",
+        "States may set their own income or age rules, so check your state's criteria"
+      ]
+    },
+    "eligibility_text": [
+      "You should be 60 years or older",
+      "Your household should be below the poverty line",
+      "State rules can differ, so check with your local office"
+    ],
+    "exclusions": [
+      "Households that are not on the BPL list (unless the state extends coverage)"
+    ],
+    "documents": [
+      "Age proof (Aadhaar, birth certificate or school certificate)",
+      "BPL card or BPL certificate",
+      "Aadhaar card",
+      "Bank account or post office account details",
+      "Address proof",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Contact your Gram Panchayat, Block office, Municipality or the district social welfare office",
+      "Fill in the pension application form and attach documents",
+      "The local authority verifies your age and BPL status",
+      "Once approved, the pension is paid monthly to your bank or post office account"
+    ],
+    "apply_url": "www.ignoaps.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. You can apply at any time once you meet the age and BPL conditions.",
+    "related_schemes": ["nsap_ignwps", "nsap_igndps", "apy"],
+    "source_url": "www.ignoaps.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "nsap_ignwps",
+    "name": "Indira Gandhi National Widow Pension Scheme",
+    "short_name": "IGNWPS",
+    "aliases": ["ignwps", "widow pension", "vidhwa pension", "nsap widow"],
+    "category": "pension",
+    "ministry": "Ministry of Rural Development (National Social Assistance Programme)",
+    "description": "A monthly pension for widows from below poverty line households.",
+    "benefit_type": "pension",
+    "benefits": [
+      "Monthly central pension for eligible widows of Rs 300",
+      "Higher central amount from age 80 of Rs 500",
+      "Many states add their own top-up, so the final amount varies by state"
+    ],
+    "eligibility": {
+      "min_age": 40,
+      "max_age": 79,
+      "max_income": null,
+      "gender": "female",
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applicant must be a widow",
+        "Applicant must belong to a BPL household",
+        "Age 40 to 79 for the standard pension, and women aged 80 and above are covered under the old-age scheme's higher amount",
+        "States may set their own rules, so check your state's criteria"
+      ]
+    },
+    "eligibility_text": [
+      "You should be a widow aged between 40 and 79",
+      "Your household should be below the poverty line",
+      "State rules can differ, so check with your local office"
+    ],
+    "exclusions": [
+      "Widows from households that are not on the BPL list (unless the state extends coverage)"
+    ],
+    "documents": [
+      "Husband's death certificate",
+      "Age proof (Aadhaar, birth certificate or school certificate)",
+      "BPL card or BPL certificate",
+      "Aadhaar card",
+      "Bank account or post office account details",
+      "Address proof",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Contact your Gram Panchayat, Block office, Municipality or the district social welfare office",
+      "Fill in the widow pension application form and attach the death certificate and other documents",
+      "The local authority verifies your details and BPL status",
+      "Once approved, the pension is paid monthly to your bank or post office account"
+    ],
+    "apply_url": "www.ignwps.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. You can apply at any time once you meet the conditions.",
+    "related_schemes": ["nsap_ignoaps", "nsap_igndps"],
+    "source_url": "www.ignwps.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "nsap_igndps",
+    "name": "Indira Gandhi National Disability Pension Scheme",
+    "short_name": "IGNDPS",
+    "aliases": ["igndps", "disability pension", "divyang pension", "handicap pension", "nsap disability"],
+    "category": "pension",
+    "ministry": "Ministry of Rural Development (National Social Assistance Programme)",
+    "description": "A monthly pension for persons with severe or multiple disabilities from below poverty line households.",
+    "benefit_type": "pension",
+    "benefits": [
+      "Monthly central pension for eligible persons with disabilities of Rs 300",
+      "Higher central amount from age 80 of Rs 500",
+      "Many states add their own top-up, so the final amount varies by state"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 79,
+      "max_income": null,
+      "gender": null,
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applicant must have a severe or multiple disability of 80%",
+        "Applicant must belong to a BPL household",
+        "Age 18 to 79 for the standard pension",
+        "A disability certificate or UDID card from a competent medical authority is needed"
+      ]
+    },
+    "eligibility_text": [
+      "You should be aged between 18 and 79",
+      "You should have a severe or multiple disability, certified by a medical authority",
+      "Your household should be below the poverty line"
+    ],
+    "exclusions": [
+      "Persons whose disability is below the required threshold",
+      "Households that are not on the BPL list (unless the state extends coverage)"
+    ],
+    "documents": [
+      "Disability certificate or UDID card",
+      "Age proof (Aadhaar, birth certificate or school certificate)",
+      "BPL card or BPL certificate",
+      "Aadhaar card",
+      "Bank account or post office account details",
+      "Address proof",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Contact your Gram Panchayat, Block office, Municipality or the district social welfare office",
+      "Fill in the disability pension application form and attach the disability certificate and other documents",
+      "The local authority verifies your disability and BPL status",
+      "Once approved, the pension is paid monthly to your bank or post office account"
+    ],
+    "apply_url": "www.igndps.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. You can apply at any time once you meet the conditions.",
+    "related_schemes": ["nsap_ignoaps", "nsap_ignwps"],
+    "source_url": "www.igndps.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "apy",
+    "name": "Atal Pension Yojana",
+    "short_name": "APY",
+    "aliases": ["apy", "atal pension", "atal pension yojana"],
+    "category": "pension",
+    "ministry": "Ministry of Finance (administered by PFRDA)",
+    "description": "A voluntary, contribution-based pension scheme that gives a guaranteed monthly pension after age 60, mainly for workers in the unorganised sector.",
+    "benefit_type": "pension",
+    "benefits": [
+      "Guaranteed monthly pension from age 60 of Rs 1,000, 2,000, 3,000, 4,000 or 5,000, depending on your contribution",
+      "Pension continues for your spouse after your death, and then the corpus goes to your nominee",
+      "Government co-contribution for some subscribers who joined earlier"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 40,
+      "max_income": null,
+      "gender": null,
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Must have a savings bank account or post office savings account",
+        "Must have a mobile number linked to the account",
+        "Income tax payers are not eligible to join",
+        "Contribution amount depends on your joining age and chosen pension amount"
+      ]
+    },
+    "eligibility_text": [
+      "You should be between 18 and 40 years old",
+      "You should have a bank or post office savings account",
+      "Income tax payers cannot join under the current rules"
+    ],
+    "exclusions": [
+      "Income tax payers ",
+      "People already getting benefits under a statutory social security scheme"
+    ],
+    "documents": [
+      "Aadhaar card",
+      "Savings bank account or post office account details",
+      "Mobile number",
+      "Nominee details"
+    ],
+    "how_to_apply": [
+      "Visit the bank or post office where you hold your savings account",
+      "Fill in the APY registration form and choose your pension amount",
+      "Give consent for monthly auto-debit from your account",
+      "Keep the acknowledgement or PRAN details for future reference"
+    ],
+    "apply_url": "www.apy.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline, but you must join before turning 40. Later joining means higher contributions.",
+    "related_schemes": ["nsap_ignoaps"],
+    "source_url": "www.apy.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "pmay_u",
+    "name": "Pradhan Mantri Awas Yojana - Urban",
+    "short_name": "PMAY-U",
+    "aliases": ["pmay urban", "pmay-u", "pmayu", "pm awas urban", "awas yojana urban", "housing scheme city", "pmay"],
+    "category": "housing",
+    "ministry": "Ministry of Housing & Urban Affairs",
+    "description": "Support for urban families without a pucca house to buy, build or improve a home, mainly through a subsidy on home loan interest.",
+    "benefit_type": "subsidy",
+    "benefits": [
+      "Interest subsidy on home loans for eligible urban families",
+      "Subsidy amount and loan limit depend on your income group",
+      "Support for building or enhancing a house on your own land",
+      "Houses are meant to be registered in the name of a woman or jointly "
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "max_income": 900000,
+      "gender": null,
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Family must not own a pucca house anywhere in India",
+        "Family must not have taken benefit under any earlier central housing scheme",
+        "Applies to urban areas only, as notified under the scheme",
+        "Income groups are EWS, LIG and MIG, with different limits and benefits",
+        "Family includes husband, wife and unmarried children"
+      ]
+    },
+    "eligibility_text": [
+      "You should live in an urban area covered by the scheme",
+      "Your family should not own a pucca house anywhere in India",
+      "Your household income should fall within the EWS, LIG or MIG limits",
+      "You should not have taken benefit under an earlier central housing scheme"
+    ],
+    "exclusions": [
+      "Families that already own a pucca house",
+      "Families that already received benefit under another central housing scheme"
+    ],
+    "documents": [
+      "Aadhaar card of all adult family members",
+      "Income proof or income certificate",
+      "Proof of residence",
+      "Bank account details",
+      "Property documents, if building or enhancing on your own land",
+      "Self-declaration of not owning a pucca house",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Check the official PMAY-Urban portal for the current application route",
+      "Apply online, or through your bank, housing finance company or Urban Local Body office",
+      "Fill in your family, income and property details",
+      "Upload documents and submit, then track the application with the reference number"
+    ],
+    "apply_url": "www.pmay_u.com",
+    "helpline": "1234567890",
+    "deadline_info": "The scheme runs for a limited period set by the government. Check the official portal for the current end date.",
+    "related_schemes": ["pmay_g", "mudra"],
+    "source_url": "www.pmay_u.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "pmay_g",
+    "name": "Pradhan Mantri Awas Yojana - Gramin",
+    "short_name": "PMAY-G",
+    "aliases": ["pmay gramin", "pmay-g", "pmayg", "pm awas gramin", "awas yojana gramin", "rural housing", "indira awas"],
+    "category": "housing",
+    "ministry": "Ministry of Rural Development",
+    "description": "Financial help for rural families who are homeless or live in kuccha or dilapidated houses to build a pucca house with basic amenities.",
+    "benefit_type": "subsidy",
+    "benefits": [
+      "Financial assistance to build a pucca house of Rs 1.20 lakh in plain areas and Rs 1.30 lakh in hilly and difficult areas",
+      "Additional support for toilet construction under Swachh Bharat Mission",
+      "Up to 90 to 95 days of unskilled wage employment under MGNREGA for construction",
+      "Option of a loan of up to Rs 70,000"
+    ],
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "gender": null,
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applies to rural areas only",
+        "Family must be homeless or live in a kuccha or dilapidated house with one or two rooms",
+        "Beneficiaries are selected from the SECC 2011 data and verified by the Gram Sabha",
+        "Priority goes to SC/ST families, freed bonded labourers, minorities and persons with disabilities",
+        "Family should not own a motorised vehicle, mechanised farm equipment or a Kisan Credit Card with a credit limit above a set amount "
+      ]
+    },
+    "eligibility_text": [
+      "You should live in a rural area",
+      "Your family should be homeless or live in a kuccha or badly damaged house",
+      "Your name should be on the official beneficiary list, which is based on SECC 2011 and verified by the Gram Sabha"
+    ],
+    "exclusions": [
+      "Families that already own a pucca house",
+      "Families that meet the exclusion criteria, such as owning a motorised vehicle or having a high income"
+    ],
+    "documents": [
+      "Aadhaar card",
+      "Job card (MGNREGA), if available",
+      "Bank account details",
+      "Proof of residence",
+      "Land ownership or allotment proof, if applicable",
+      "Caste certificate, if applicable",
+      "Passport-size photograph"
+    ],
+    "how_to_apply": [
+      "Check whether your family is on the PMAY-G beneficiary list, using the official portal or by asking your Gram Panchayat",
+      "If you are missing and believe you qualify, contact your Gram Panchayat or Block Development Office",
+      "Complete verification and geo-tagging of the existing house site",
+      "Once sanctioned, receive funds in your bank account in instalments linked to construction progress"
+    ],
+    "apply_url": "www.pmay_g.com",
+    "helpline": "1234567890",
+    "deadline_info": "The scheme runs for a limited period set by the government. Check the official portal for the current end date.",
+    "related_schemes": ["pmay_u"],
+    "source_url": "www.pmay_g.com",
+    "last_verified": "19/10/2026fe"
+  },
+  {
+    "id": "pmmvy",
+    "name": "Pradhan Mantri Matru Vandana Yojana",
+    "short_name": "PMMVY",
+    "aliases": ["pmmvy", "matru vandana", "matru vandana yojana", "pm matru vandana", "maternity benefit", "maternity cash benefit"],
+    "category": "women_child",
+    "ministry": "Ministry of Women & Child Development",
+    "description": "A cash benefit for pregnant and lactating women, meant to partly make up for wage loss and support better nutrition and rest around childbirth.",
+    "benefit_type": "cash",
+    "benefits": [
+      "Cash benefit of Rs 5,000 in two instalments for the first living child ",
+      "Rs 6,000 in one instalment for a second child if it is a girl",
+      "Money is paid directly into your bank or post office account",
+      "Can be received in addition to the JSY cash incentive "
+    ],
+    "eligibility": {
+      "min_age": 19,
+      "max_age": null,
+      "max_income": null,
+      "gender": "female",
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applicant must be a pregnant or lactating woman",
+        "Benefit applies to the first living child, and to a second child only if it is a girl",
+        "Women who get similar maternity benefits as regular employees of the Centre, a state or a PSU, or under any law, are not eligible",
+        "Pregnancy must be registered, and antenatal check-ups and child vaccinations must be completed as required"
+      ]
+    },
+    "eligibility_text": [
+      "You should be a pregnant or lactating woman aged 19 or above",
+      "The benefit is for your first living child, and for a second child only if it is a girl",
+      "You should not already be getting paid maternity leave benefits from a government job or under another law"
+    ],
+    "exclusions": [
+      "Women employed in central or state government or PSUs who get maternity benefits",
+      "Women getting similar benefits under any other law"
+    ],
+    "documents": [
+      "Application form with declaration",
+      "Mother and Child Protection (MCP) card",
+      "Aadhaar card of the mother",
+      "Bank or post office account details linked to Aadhaar",
+      "Child's birth certificate and vaccination record",
+      "Husband's Aadhaar"
+    ],
+    "how_to_apply": [
+      "Register the pregnancy at your nearest Anganwadi Centre or approved health facility",
+      "Fill in the PMMVY application form and submit it with the documents",
+      "Claim each instalment after completing the required check-ups and registrations",
+      "Benefit is credited directly to your bank or post office account"
+    ],
+    "apply_url": "www.pmmvy.com",
+    "helpline": "1234567890",
+    "deadline_info": "Apply within the time limits set for each instalment, counted from pregnancy registration and childbirth. Check the portal for the exact limits.",
+    "related_schemes": ["jsy", "jssk"],
+    "source_url": "www.pmmvy.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "jssk",
+    "name": "Janani Shishu Suraksha Karyakram",
+    "short_name": "JSSK",
+    "aliases": ["jssk", "janani shishu suraksha", "janani shishu suraksha karyakram", "free delivery", "free maternity care", "free newborn care"],
+    "category": "women_child",
+    "ministry": "Ministry of Health & Family Welfare (National Health Mission)",
+    "description": "Free healthcare services, with no cash involved, for pregnant women and sick newborns at government health facilities, so that cost does not stop families from seeking care.",
+    "benefit_type": "free_services",
+    "benefits": [
+      "Free normal delivery and caesarean section",
+      "Free drugs, consumables, diagnostics and blood",
+      "Free diet during your stay (up to 3 days for normal delivery and 7 days for caesarean)",
+      "Free transport from home to the facility, between facilities if referred, and back home",
+      "Same free services for sick newborns up to one year of age"
+    ],
+    "eligibility": {
+      "min_age": null,
+      "max_age": null,
+      "max_income": null,
+      "gender": "female",
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applicant must be a pregnant woman using a government health facility",
+        "Sick newborns of mothers using these services are also covered",
+        "Services are given at government facilities, not private hospitals",
+        "No income or BPL condition applies"
+      ]
+    },
+    "eligibility_text": [
+      "You should be a pregnant woman delivering at a government health facility",
+      "Your sick newborn is also covered for free care",
+      "There is no income condition, and no cash payment is involved"
+    ],
+    "exclusions": [
+      "Services at private facilities"
+    ],
+    "documents": [
+      "Mother and Child Protection (MCP) card, if available",
+      "Any ID proof",
+      "Pregnancy registration details"
+    ],
+    "how_to_apply": [
+      "No separate application is needed",
+      "Register the pregnancy at your nearest Anganwadi, sub-centre or health facility",
+      "Contact your ASHA worker, who can arrange free transport",
+      "Go to a government facility for delivery, and the free services are given there"
+    ],
+    "apply_url": "www.jssk.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. Services are available throughout pregnancy, delivery and the newborn period.",
+    "related_schemes": ["jsy", "pmmvy"],
+    "source_url": "www.jssk.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "mudra",
+    "name": "Pradhan Mantri Mudra Yojana",
+    "short_name": "PMMY",
+    "aliases": ["mudra", "pm mudra", "pmmy", "mudra loan", "mudra yojana", "shishu loan", "kishor loan", "tarun loan", "small business loan"],
+    "category": "livelihood",
+    "ministry": "Ministry of Finance",
+    "description": "Collateral-free loans for small and micro businesses outside agriculture, given through banks, microfinance institutions and NBFCs.",
+    "benefit_type": "credit",
+    "benefits": [
+      "Shishu loans up to Rs 50,000 for new or very small businesses",
+      "Kishor loans from Rs 50,000 to Rs 5 lakh for growing businesses",
+      "Tarun loans from Rs 5 lakh to Rs 10 lakh for established businesses",
+      "Higher limit for Tarun borrowers who have repaid earlier loans (Tarun Plus up to Rs 20 lakh)",
+      "No collateral needed, and no processing fee for Shishu loans"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "max_income": null,
+      "gender": null,
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applicant must run or plan a non-farm, income-generating business in manufacturing, trading or services",
+        "Covers small shops, workshops, food businesses, vehicles for commercial use, and similar activities ",
+        "Direct crop cultivation is not covered, but some allied activities may be",
+        "Applicant must not be a loan defaulter, and the bank decides on approval",
+        "Loan size depends on your business needs and repayment capacity"
+      ]
+    },
+    "eligibility_text": [
+      "You should be an Indian citizen aged 18 or above with a small business or a plan for one",
+      "The business should be outside farming, such as a shop, workshop, service or small manufacturing unit",
+      "The final approval is given by the bank or lender"
+    ],
+    "exclusions": [
+      "Pure agricultural activities such as growing crops",
+      "Applicants with defaults on earlier loans"
+    ],
+    "documents": [
+      "Filled loan application form",
+      "Identity proof (Aadhaar, voter ID, etc.)",
+      "Address proof",
+      "Business proof or business plan (for new businesses, a simple plan or quotations)",
+      "Bank statements ",
+      "Caste certificate, if applicable",
+      "Passport-size photographs"
+    ],
+    "how_to_apply": [
+      "Decide which category (Shishu, Kishor or Tarun) fits your loan amount",
+      "Visit a bank branch, microfinance institution or NBFC, or apply through the Udyamimitra portal",
+      "Submit the application with identity, address and business documents",
+      "The lender assesses your application and releases the loan if approved"
+    ],
+    "apply_url": "www.mudra.com",
+    "helpline": "1234567890",
+    "deadline_info": "No fixed deadline. Loans are available year-round.",
+    "related_schemes": ["standup_india", "pmay_u"],
+    "source_url": "www.mudra.com",
+    "last_verified": "19/10/2026"
+  },
+  {
+    "id": "standup_india",
+    "name": "Stand-Up India",
+    "short_name": "Stand-Up India",
+    "aliases": ["stand up india", "standup india", "stand-up india", "standupindia", "sc st women loan", "women entrepreneur loan"],
+    "category": "livelihood",
+    "ministry": "Ministry of Finance (Department of Financial Services)",
+    "description": "Bank loans between Rs 10 lakh and Rs 1 crore for Scheduled Caste, Scheduled Tribe and women entrepreneurs setting up a new business for the first time.",
+    "benefit_type": "credit",
+    "benefits": [
+      "Composite loan of Rs 10 lakh to Rs 1 crore for a new enterprise",
+      "Covers both term loan and working capital",
+      "Repayment period of up to 7 years, with a moratorium of up to 18 months",
+      "Handholding support through the Stand-Up India portal"
+    ],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "max_income": null,
+      "gender": null,
+      "occupation": [],
+      "category": null,
+      "states": ["ALL"],
+      "minority_required": false,
+      "other_conditions": [
+        "Applicant must be an SC or ST entrepreneur, or a woman entrepreneur (the two groups are alternatives, so a woman from any category can apply)",
+        "The enterprise must be a first-time, greenfield venture in manufacturing, services, trading, or an agri-allied activity",
+        "For non-individual businesses, at least 51% of the shareholding and control must be held by an SC/ST or woman entrepreneur",
+        "Applicant must not be a defaulter to any bank or financial institution",
+        "Borrower is expected to contribute a share of the project cost of 10 percent"
+      ]
+    },
+    "eligibility_text": [
+      "You should be an SC or ST entrepreneur, or a woman entrepreneur, aged 18 or above",
+      "The loan is for setting up a brand-new business, not expanding an existing one",
+      "The final approval is given by the bank"
+    ],
+    "exclusions": [
+      "Existing businesses (the loan is only for first-time ventures)",
+      "Defaulters to any bank or financial institution"
+    ],
+    "documents": [
+      "Filled loan application form",
+      "Identity and address proof (Aadhaar, voter ID, etc.)",
+      "Caste certificate (for SC/ST applicants)",
+      "Project report or business plan",
+      "Bank statements",
+      "Proof of business address or premises",
+      "Passport-size photographs"
+    ],
+    "how_to_apply": [
+      "Register on the Stand-Up India portal",
+      "Apply through the portal, directly at a bank branch, or through the Lead District Manager",
+      "Submit your business plan and documents",
+      "The bank evaluates the proposal and sanctions the loan if approved"
+    ],
+    "apply_url": "www.standup_india.com",
+    "helpline": "1234567890",
+    "deadline_info": "The scheme was extended for a fixed period, so check the official portal for the current end date.",
+    "related_schemes": ["mudra"],
+    "source_url": "www.standup_india.com",
+    "last_verified": "19/10/2026"
+  }
+]
