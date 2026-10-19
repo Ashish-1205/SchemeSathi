@@ -51,7 +51,7 @@
     "deadline_info": "No fixed deadline. Applications are accepted year-round, and the card is renewed periodically.",
     "related_schemes": ["pmfby"],
     "source_url": "www.urlforkcc.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "pmfby",
@@ -105,7 +105,7 @@
     "deadline_info": "Cut-off dates differ by state and season (kharif and rabi). Check the current dates on the portal.",
     "related_schemes": ["kcc"],
     "source_url": "www.urlforpmfby.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "pmjay",
@@ -165,7 +165,7 @@
     "deadline_info": "No fixed deadline. You can enrol at any time if you are eligible.",
     "related_schemes": ["jsy"],
     "source_url": "www.pmjay.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "jsy",
@@ -222,7 +222,7 @@
     "deadline_info": "No fixed deadline. Register during pregnancy, and the incentive is paid after delivery.",
     "related_schemes": ["jssk", "pmmvy"],
     "source_url": "www.jsy.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "bhmns",
@@ -284,7 +284,7 @@
     "deadline_info": "Applications open once a year, and the last date changes every academic year. Check the National Scholarship Portal for the current dates.",
     "related_schemes": ["pmusp", "pmvidyalaxmi"],
     "source_url": "www.bhmns.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "pmusp",
@@ -345,7 +345,7 @@
     "deadline_info": "Applications open once a year, and the last date changes every academic year. Check the National Scholarship Portal for the current dates.",
     "related_schemes": ["bhmns", "pmvidyalaxmi"],
     "source_url": "www.pmusp.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "pmvidyalaxmi",
@@ -406,7 +406,7 @@
     "deadline_info": "No fixed deadline. Apply after you receive an admission offer, and in time for fee payment.",
     "related_schemes": ["pmusp", "bhmns"],
     "source_url": "www.pmvidyalaxmi.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "nsap_ignoaps",
@@ -464,7 +464,7 @@
     "deadline_info": "No fixed deadline. You can apply at any time once you meet the age and BPL conditions.",
     "related_schemes": ["nsap_ignwps", "nsap_igndps", "apy"],
     "source_url": "www.ignoaps.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "nsap_ignwps",
@@ -524,7 +524,7 @@
     "deadline_info": "No fixed deadline. You can apply at any time once you meet the conditions.",
     "related_schemes": ["nsap_ignoaps", "nsap_igndps"],
     "source_url": "www.ignwps.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "nsap_igndps",
@@ -585,7 +585,7 @@
     "deadline_info": "No fixed deadline. You can apply at any time once you meet the conditions.",
     "related_schemes": ["nsap_ignoaps", "nsap_ignwps"],
     "source_url": "www.igndps.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "apy",
@@ -643,7 +643,7 @@
     "deadline_info": "No fixed deadline, but you must join before turning 40. Later joining means higher contributions.",
     "related_schemes": ["nsap_ignoaps"],
     "source_url": "www.apy.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "pmay_u",
@@ -707,7 +707,7 @@
     "deadline_info": "The scheme runs for a limited period set by the government. Check the official portal for the current end date.",
     "related_schemes": ["pmay_g", "mudra"],
     "source_url": "www.pmay_u.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "pmay_g",
@@ -770,7 +770,7 @@
     "deadline_info": "The scheme runs for a limited period set by the government. Check the official portal for the current end date.",
     "related_schemes": ["pmay_u"],
     "source_url": "www.pmay_g.com",
-    "last_verified": "19/10/2026fe"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "pmmvy",
@@ -831,7 +831,7 @@
     "deadline_info": "Apply within the time limits set for each instalment, counted from pregnancy registration and childbirth. Check the portal for the exact limits.",
     "related_schemes": ["jsy", "jssk"],
     "source_url": "www.pmmvy.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "jssk",
@@ -889,7 +889,7 @@
     "deadline_info": "No fixed deadline. Services are available throughout pregnancy, delivery and the newborn period.",
     "related_schemes": ["jsy", "pmmvy"],
     "source_url": "www.jssk.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "mudra",
@@ -953,7 +953,7 @@
     "deadline_info": "No fixed deadline. Loans are available year-round.",
     "related_schemes": ["standup_india", "pmay_u"],
     "source_url": "www.mudra.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   },
   {
     "id": "standup_india",
@@ -1016,6 +1016,6 @@
     "deadline_info": "The scheme was extended for a fixed period, so check the official portal for the current end date.",
     "related_schemes": ["mudra"],
     "source_url": "www.standup_india.com",
-    "last_verified": "19/10/2026"
+    "last_verified": "2026-10-19"
   }
 ]
