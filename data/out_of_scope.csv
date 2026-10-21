@@ -1,0 +1,64 @@
+text,group
+what is the weather today,unrelated
+tell me a joke,chitchat
+who is the prime minister of india,unrelated
+what is the capital of france,unrelated
+how do i cook biryani,unrelated
+who won the cricket match yesterday,unrelated
+play some music,unrelated
+what is the price of gold today,unrelated
+translate this sentence into french,unrelated
+write a poem about rain,unrelated
+how far is the moon from earth,unrelated
+best restaurants near me,unrelated
+recommend a good movie,unrelated
+what is the stock price of reliance,unrelated
+how do i lose weight fast,unrelated
+what is the meaning of life,chitchat
+are you a robot,chitchat
+what is your name,chitchat
+who made you,chitchat
+how old are you,chitchat
+do you like pizza,chitchat
+are you single,chitchat
+what is your favourite colour,chitchat
+can you sing a song,chitchat
+how are you feeling today,chitchat
+i am bored,chitchat
+tell me something interesting,chitchat
+asdfghjkl,gibberish
+qwerty,gibberish
+zxcvbnm,gibberish
+hmm,gibberish
+lol,gibberish
+ok,gibberish
+blah blah blah,gibberish
+123456,gibberish
+???,gibberish
+aaaaaa,gibberish
+test test test,gibberish
+how do i renew my passport,other_govt
+how to apply for a driving licence,other_govt
+how do i file my income tax return,other_govt
+how to link pan with aadhaar,other_govt
+how to update my address in aadhaar,other_govt
+how to get a voter id card,other_govt
+how to register a vehicle,other_govt
+how to apply for a gas connection,other_govt
+how to get a birth certificate,other_govt
+what is the gst rate on mobile phones,other_govt
+how to book a train ticket,other_govt
+what is pm-kisan,uncovered_scheme
+am i eligible for pm-kisan,uncovered_scheme
+how to apply for pm-kisan,uncovered_scheme
+when is the next pm-kisan instalment,uncovered_scheme
+tell me about ujjwala yojana,uncovered_scheme
+how to apply for sukanya samriddhi yojana,uncovered_scheme
+what is the benefit of mgnrega,uncovered_scheme
+documents needed for jan dhan account,uncovered_scheme
+how do i get a ration card,uncovered_scheme
+what is pm svanidhi,uncovered_scheme
+am i eligible for national pension system,uncovered_scheme
+tell me about swachh bharat mission,uncovered_scheme
+what is pm kisan maandhan yojana,uncovered_scheme
+how to apply for mukhyamantri scheme in my state,uncovered_scheme

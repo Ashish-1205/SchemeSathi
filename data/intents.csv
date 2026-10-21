@@ -1,0 +1,318 @@
+text,intent
+hi,greet
+hello,greet
+hey,greet
+hii,greet
+hello there,greet
+good morning,greet
+good afternoon,greet
+good evening,greet
+hey there,greet
+namaste,greet
+hi bot,greet
+hello schemesaathi,greet
+hey schemesaathi,greet
+hi there,greet
+yo,greet
+sup,greet
+hi can you help me,greet
+hello i need some help,greet
+hey anyone there,greet
+greetings,greet
+hi good morning,greet
+hello sir,greet
+hello madam,greet
+helo,greet
+hey bot,greet
+bye,goodbye
+goodbye,goodbye
+see you,goodbye
+see you later,goodbye
+bye bye,goodbye
+ok bye,goodbye
+that is all,goodbye
+that is all for now,goodbye
+i am done,goodbye
+exit,goodbye
+quit,goodbye
+close chat,goodbye
+end chat,goodbye
+talk to you later,goodbye
+good night,goodbye
+take care,goodbye
+i have to go now,goodbye
+gotta go,goodbye
+catch you later,goodbye
+have a nice day,goodbye
+stop,goodbye
+that will be all,goodbye
+bye for now,goodbye
+thanks,thanks
+thank you,thanks
+thank you so much,thanks
+thanks a lot,thanks
+thx,thanks
+ty,thanks
+many thanks,thanks
+thanks for the help,thanks
+that was helpful,thanks
+great thanks,thanks
+okay thank you,thanks
+thanks bot,thanks
+appreciate it,thanks
+really appreciate your help,thanks
+thank you very much,thanks
+awesome thanks,thanks
+perfect thanks,thanks
+got it thanks,thanks
+thanks that helps,thanks
+cool thanks,thanks
+nice thank you,thanks
+much appreciated,thanks
+thank u,thanks
+thanks for your time,thanks
+thanks a ton,thanks
+which schemes can i get,find_schemes
+find schemes for me,find_schemes
+what schemes am i eligible for,find_schemes
+show me government schemes,find_schemes
+are there any schemes for farmers,find_schemes
+schemes for students,find_schemes
+i am a farmer from bihar what schemes can i apply for,find_schemes
+suggest schemes for a 62 year old woman,find_schemes
+i am 25 years old and unemployed any scheme for me,find_schemes
+what government schemes are available for women,find_schemes
+help me find a scheme,find_schemes
+any housing schemes for poor families,find_schemes
+which schemes are there for health,find_schemes
+i want to know schemes for my profile,find_schemes
+recommend some schemes for me,find_schemes
+i am a student from up with income 2 lakh which schemes suit me,find_schemes
+schemes for sc category,find_schemes
+looking for loan schemes for small business,find_schemes
+government help for pregnant women,find_schemes
+what benefits can a senior citizen get,find_schemes
+list all schemes for obc students,find_schemes
+is there any scheme for me,find_schemes
+what can i get from the government,find_schemes
+find me pension schemes,find_schemes
+i belong to a low income family what schemes are there,find_schemes
+schemes for girls education,find_schemes
+any scheme for farmers in maharashtra,find_schemes
+discover schemes,find_schemes
+tell me which schemes match my details,find_schemes
+am i eligible for kisan credit card,check_eligibility
+can i get ayushman bharat,check_eligibility
+do i qualify for pmay,check_eligibility
+who can apply for atal pension yojana,check_eligibility
+eligibility for mudra loan,check_eligibility
+check my eligibility for pmfby,check_eligibility
+am i eligible for widow pension,check_eligibility
+i am 45 can i join apy,check_eligibility
+can a woman get stand up india loan,check_eligibility
+am i eligible for begum hazrat mahal scholarship,check_eligibility
+do i qualify for pm-usp,check_eligibility
+can i apply for janani suraksha yojana,check_eligibility
+eligibility criteria for pm vidyalaxmi,check_eligibility
+who is eligible for old age pension,check_eligibility
+i am 30 years old can i get atal pension,check_eligibility
+check eligibility for pmay gramin,check_eligibility
+can i get disability pension,check_eligibility
+am i eligible for matru vandana,check_eligibility
+am i eligible for jssk,check_eligibility
+do i qualify for ayushman card,check_eligibility
+eligibility for fasal bima yojana,check_eligibility
+is my family eligible for pmay urban,check_eligibility
+can i get a stand up india loan as sc,check_eligibility
+am i eligible,check_eligibility
+criteria for kcc,check_eligibility
+can i avail mudra loan,check_eligibility
+am i eligible for central sector scholarship,check_eligibility
+what is the eligibility for nsap,check_eligibility
+what is pm-jay,scheme_info
+tell me about kisan credit card,scheme_info
+what is atal pension yojana,scheme_info
+explain pmfby,scheme_info
+what are the benefits of mudra loan,scheme_info
+details about pmay urban,scheme_info
+what is stand up india,scheme_info
+information on janani suraksha yojana,scheme_info
+what does jssk provide,scheme_info
+tell me about matru vandana yojana,scheme_info
+how much pension under old age pension,scheme_info
+what is the benefit of ayushman bharat,scheme_info
+describe pm vidyalaxmi,scheme_info
+what is nsap,scheme_info
+about begum hazrat mahal scholarship,scheme_info
+what is pm-usp,scheme_info
+how much money do i get in pmmvy,scheme_info
+what is the loan limit under mudra,scheme_info
+explain crop insurance scheme,scheme_info
+what is widow pension scheme,scheme_info
+scheme details for pmay gramin,scheme_info
+what is the purpose of jsy,scheme_info
+benefits of stand up india,scheme_info
+what does kcc offer,scheme_info
+what is disability pension scheme,scheme_info
+give me information about education loan scheme,scheme_info
+what is free delivery scheme,scheme_info
+what documents are required for kisan credit card,documents_required
+documents needed for ayushman bharat,documents_required
+which documents do i need for pmay,documents_required
+list of documents for mudra loan,documents_required
+what papers are needed for atal pension yojana,documents_required
+documents required for widow pension,documents_required
+what do i need to apply for pmfby,documents_required
+documents for begum hazrat mahal scholarship,documents_required
+what documents for pm-usp,documents_required
+required documents for stand up india,documents_required
+what papers do i need for old age pension,documents_required
+documents needed for janani suraksha yojana,documents_required
+do i need aadhaar for kcc,documents_required
+what certificates are needed for scholarship,documents_required
+documents checklist for pm vidyalaxmi,documents_required
+which documents are needed for matru vandana yojana,documents_required
+what should i carry to apply for ayushman card,documents_required
+documents for disability pension,documents_required
+proof needed for pmay gramin,documents_required
+do i need income certificate for pm-usp,documents_required
+what id proof is required for mudra loan,documents_required
+paperwork needed for crop insurance,documents_required
+documents for pmay urban,documents_required
+what documents are needed,documents_required
+list the papers required,documents_required
+documents required for jssk,documents_required
+what documents do i have to submit for apy,documents_required
+which papers are needed for education loan,documents_required
+how do i apply for kisan credit card,how_to_apply
+how to apply for ayushman bharat,how_to_apply
+application process for pmay urban,how_to_apply
+steps to apply for mudra loan,how_to_apply
+how can i register for atal pension yojana,how_to_apply
+where do i apply for widow pension,how_to_apply
+how to enrol in pmfby,how_to_apply
+how to apply for begum hazrat mahal scholarship,how_to_apply
+how do i apply for pm-usp,how_to_apply
+procedure to apply for stand up india,how_to_apply
+how to get old age pension,how_to_apply
+how to apply for janani suraksha yojana,how_to_apply
+how do i apply for pm vidyalaxmi,how_to_apply
+apply for disability pension,how_to_apply
+how to register for matru vandana yojana,how_to_apply
+how to apply online for pmay gramin,how_to_apply
+how to get ayushman card,how_to_apply
+what is the application process,how_to_apply
+how do i apply,how_to_apply
+which website to apply for scholarship,how_to_apply
+where can i apply for kcc,how_to_apply
+how to apply for crop insurance,how_to_apply
+how do i get a mudra loan,how_to_apply
+how to join apy,how_to_apply
+how to avail jssk,how_to_apply
+guide me to apply for education loan,how_to_apply
+what are the steps to apply,how_to_apply
+how to fill the pmay application,how_to_apply
+how to check my application status,application_status
+track my application,application_status
+what is the status of my pmay application,application_status
+check status of my scholarship application,application_status
+where can i see my mudra loan status,application_status
+has my pension been approved,application_status
+how do i track my pm-usp application,application_status
+application status for atal pension yojana,application_status
+my application number is 12345 what is the status,application_status
+status of my ayushman card application,application_status
+i applied for pmay a month ago what is the status,application_status
+track pmfby claim status,application_status
+how to know if my scholarship is approved,application_status
+check my kcc application status,application_status
+where to check pension application status,application_status
+what happened to my application,application_status
+i want to track my application,application_status
+is my application approved,application_status
+how to check scholarship status online,application_status
+view status of stand up india application,application_status
+status of pm vidyalaxmi loan application,application_status
+check beneficiary status for pmay gramin,application_status
+how do i know if my widow pension is sanctioned,application_status
+status of matru vandana payment,application_status
+check application status,application_status
+i submitted my form where can i see the status,application_status
+what is the last date for pm-usp,deadline_info
+when does scholarship application close,deadline_info
+last date to apply for pmfby,deadline_info
+deadline for begum hazrat mahal scholarship,deadline_info
+when is the next pmmvy instalment,deadline_info
+by when should i apply for pmay,deadline_info
+when will my pension be credited,deadline_info
+is there a last date for mudra loan,deadline_info
+crop insurance last date for kharif,deadline_info
+when do applications open for scholarship,deadline_info
+last date for stand up india,deadline_info
+when is the deadline,deadline_info
+till when can i apply for ayushman card,deadline_info
+cut off date for rabi crop insurance,deadline_info
+when will the pmmvy instalment come,deadline_info
+is the pmay scheme still open,deadline_info
+when does pm vidyalaxmi application end,deadline_info
+what is the last date to apply,deadline_info
+deadline for atal pension yojana,deadline_info
+when will the scholarship window open,deadline_info
+how long do i have to apply for pmay urban,deadline_info
+last date for scholarship application this year,deadline_info
+when is the pension paid every month,deadline_info
+is there any deadline for kcc,deadline_info
+by what date should i enrol for crop insurance,deadline_info
+where is the nearest csc center,nearest_office
+find a common service centre near me,nearest_office
+nearest bank branch for kisan credit card,nearest_office
+where can i go to apply for pension,nearest_office
+nearest ayushman mitra desk,nearest_office
+which office handles pmay applications,nearest_office
+find an empanelled hospital near me,nearest_office
+nearest anganwadi centre,nearest_office
+where is the block development office,nearest_office
+csc near me,nearest_office
+nearest post office for atal pension yojana,nearest_office
+where do i submit my scholarship form,nearest_office
+which office should i visit for widow pension,nearest_office
+nearest government hospital for free delivery,nearest_office
+find a bank that gives mudra loans,nearest_office
+where is the gram panchayat office,nearest_office
+help me locate the nearest office,nearest_office
+where can i get ayushman card made,nearest_office
+nearest centre to apply for crop insurance,nearest_office
+which office to visit for disability certificate,nearest_office
+locate nearest social welfare office,nearest_office
+office address for pmay urban,nearest_office
+where to go for pm vidyalaxmi help,nearest_office
+nearest centre for aadhaar enrolment,nearest_office
+find a government office near me,nearest_office
+my pension has not come,grievance
+i have not received my scholarship money,grievance
+how to file a complaint about pmay,grievance
+my ayushman card is not working at the hospital,grievance
+hospital refused cashless treatment under ayushman,grievance
+i want to complain about a delay in my pension,grievance
+my application was rejected without reason,grievance
+bank is not giving me a kisan credit card,grievance
+my crop insurance claim has not been settled,grievance
+where can i raise a grievance,grievance
+official asked me for a bribe,grievance
+my name is missing from the beneficiary list,grievance
+mudra loan was denied,grievance
+my matru vandana instalment has not come,grievance
+helpline number for complaints,grievance
+i did not get the jsy incentive after delivery,grievance
+how to report a problem with my pension,grievance
+my widow pension stopped suddenly,grievance
+scholarship amount was not credited to my account,grievance
+i want to register a complaint,grievance
+the bank is asking for extra money for the loan,grievance
+my pmay money has not been released,grievance
+who do i contact if my claim is rejected,grievance
+my form was rejected please help,grievance
+file a grievance,grievance
+payment is stuck in my account,grievance
+problem with my application,grievance
+how do i escalate my complaint,grievance
